@@ -1,3 +1,3 @@
 # Certified Kubernetes Administrator Exam Guide - Puru Tuladhar
 
-A missing book by a Kubestronaut
+A missing book by a Kubestronaut -> https://cka.purutuladhar.com
