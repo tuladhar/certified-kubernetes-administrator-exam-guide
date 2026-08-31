@@ -1,0 +1,7 @@
+# Cluster concept
+
+A cluster is a group of nodes, or machines, that work together. This is true for a database cluster, or
+any other type of cluster. A Kubernetes cluster is no different.
+
+In Kubernetes, atleast two Linux nodes work together to form a Kubernetes cluster.
+
